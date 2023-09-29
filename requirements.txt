@@ -2,3 +2,4 @@ irc ~= 18.0.0
 mysql-connector ~= 2.2.9
 timeloop ~= 1.0.2
 pychance ~= 0.1.8
+pydantic>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
